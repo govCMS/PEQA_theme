@@ -63,7 +63,7 @@
   <title><?php print $head_title; ?></title>
   <?php print $styles; ?>
 
-  <link rel='stylesheet' id='superhero-carrois-gothic-css'  href='http://fonts.googleapis.com/css?family=Carrois+Gothic' type='text/css' media='all' />
+  <link rel='stylesheet' id='superhero-carrois-gothic-css'  href='https://fonts.googleapis.com/css?family=Carrois+Gothic' type='text/css' media='all' />
 
   <!-- HTML5 element support for IE6-8 -->
   <!--[if lt IE 9]>
