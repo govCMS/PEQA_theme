@@ -78,7 +78,7 @@
 
   <?php if ($display_submitted): ?>
     <div class="submitted">
-      <?php print $submitted; ?>
+      <?php print $date; ?>
     </div>
   <?php endif; ?>
 

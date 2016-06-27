@@ -93,7 +93,7 @@
     <?php if ($display_submitted): ?>
     <span class="submitted">
       <?php print $user_picture; ?>
-      <?php print $submitted; ?>
+      <?php print $date; ?>
     </span>
     <?php endif; ?>
   </header>
